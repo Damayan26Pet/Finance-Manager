@@ -11,6 +11,7 @@ To access the features, click the Actions menu in the top-right corner. A drop-d
 - View transactions in a dynamic table (JTable)
 
 ## Technologies Used
+- JDK 24
 - Java SE
 - Java Swing (GUI)
 - Custom Linked List implementation
@@ -29,3 +30,5 @@ To access the features, click the Actions menu in the top-right corner. A drop-d
    ```bash
    java Main
 
+## Authors
+   Damyan Petrov
