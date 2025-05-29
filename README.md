@@ -25,6 +25,7 @@ To access the features, click the Actions menu in the top-right corner. A drop-d
    javac *.java
 
 2.  **Run Main**
-
+   
+   ```bash
    java Main
 
