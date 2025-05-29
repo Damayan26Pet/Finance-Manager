@@ -109,7 +109,7 @@ public class Main {
         try {
             String amountStr = JOptionPane.showInputDialog("Enter amount:");
             double amount = Double.parseDouble(amountStr);
-            if (amount < 0) throw new IllegalArgumentException("Amount cannot be negative.");
+            if (amount <= 0) throw new IllegalArgumentException("Amount cannot be negative or 0.");
 
             String category = JOptionPane.showInputDialog("Enter category:");
             String date = JOptionPane.showInputDialog("Enter date (YYYY-MM-DD):");
