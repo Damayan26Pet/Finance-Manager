@@ -22,13 +22,15 @@ To access the features, click the Actions menu in the top-right corner. A drop-d
 
 1. **Compile the project**:
 
-   ```bash
-   javac *.java
+    ```bash
+    javac *.java
+    ```
 
 2.  **Run Main**
    
-   ```bash
-   java Main
+    ```bash
+    Main.java
+    ```
 
 ## Authors
    Damyan Petrov
